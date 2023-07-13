@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GBDX1478
-- 👀 I’m interested in php (Symfony, Api Platform, Laravel), JS (ReactJS, VueJS(quasar))
-- 🌱 I’m currently learning VueJS-quasar
+- 👀 I’m interested in php (Symfony, Api Platform, Laravel), JS (ReactJS, VueJS)
+- 🌱 I’m currently learning NextJS-NuxtJS
 - 💞️ I’m looking to collaborate on any project which has a part in the languages i'm interested in.
 - 📫 How to reach me : guillaumebdx@protonmail.com
 
